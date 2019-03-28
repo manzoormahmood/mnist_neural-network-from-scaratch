@@ -1,0 +1,2 @@
+# mnist_neural-network-from-scaratch
+In the code below training on MNIST dataset is done using neural networks. Implementation has been done with minimum use of libraries to get a better understanding of the concept and working on neural nets. Functions for initialization, activation, forward propagation, backward propagation, cost have been written separately. The training labeled dataset consists of 42000 images, each of size 28x28 = 784 pixels. Labels are from 0 to 9. In this we are not going to use tensorflow or any other such module.
